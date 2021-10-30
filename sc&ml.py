@@ -1,4 +1,4 @@
-#web_scraping and use ml to guss car price
+#web_scraping and use ml to guess car price
 from os import replace
 import re
 from typing import final
